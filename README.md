@@ -1,4 +1,4 @@
-# Photo Browser
+# Photo Browser for iOS
 如何使用：
 PhotoBrowser *browser = [[PhotoBrowser alloc] init];
 browser.sourceImagesContainerView = self.tableView; // 原图的父控件
